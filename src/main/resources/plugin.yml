@@ -1,0 +1,7 @@
+name: ReallyImpossibleMode
+version: ${project.version}
+main: gq.netherrealm.reallyimpossiblemode.ReallyImpossibleMode
+api-version: 1.13
+authors: [AarnavPai, arnu515]
+description: Beat this with fundy's impossible mode and in hardcore, and I'll bite my shoe
+website: arnu515.gq

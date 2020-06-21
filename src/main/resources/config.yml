@@ -1,0 +1,23 @@
+# ----------------------------------------------------------------
+# Created by: arnu515
+# YOUTUBE: https://bit.ly/515nation
+# TWITTER: https://bit.ly/515tweet
+# WEBSITE: https://arnu515.gq/
+# ----------------------------------------------------------------
+
+changemobs: true
+
+# When changemobs is false, these settings below won't have any affect.
+opskeletons: true # Spawn skeletons with diamond armor
+nocows: true # Delete cows
+zombiesdontburn: true # Zombies won't burn
+zombieshavesword: true # Zombies spawn with sword
+
+# Kills you when you take fall damage
+killonfall: true
+
+# Randomly kills you when you craft something
+randomlykilloncraft: true
+
+# You take double damage
+playertakesdoubledamage: true

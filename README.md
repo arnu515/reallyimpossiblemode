@@ -16,5 +16,5 @@ This plugin was inspired by [Fundy](https://www.youtube.com/channel/UCCE5NVlm0Fh
 And yes, this plugin can be used alongside it. Actually, I recommend you install [Fundy's plugin](https://www.youtube.com/watch?v=5C2wdLLTbTI) too!
 
 ## Downloads
-[here]()
+[here](https://www.spigotmc.org/resources/really-impossible-gamemode.80471/)
 
